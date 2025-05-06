@@ -16,7 +16,7 @@ variable "project-id" {
 
 variable "topic-name" {
   type        = string
-  default     = "sentinelcloudsqlc-topic"
+  default     = "sentinelcloudsql-topic"
   description = "Name of existing topic"
 }
 
